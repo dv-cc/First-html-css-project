@@ -8,7 +8,7 @@ This repository contains an HTML file and associated CSS for a tribute page dedi
 
 ## Preview
 
-![Preview](img/preview.png)
+![Preview](preview.png)
 
 ## Table of Contents
 
